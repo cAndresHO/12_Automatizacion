@@ -7,3 +7,6 @@ Cada video tiene una categoría específica (entretenimiento, música, noticias 
 
 Un video puede estar en la sección de tendencias durante varios días seguidos.
 
+### Link al dashboard:
+https://public.tableau.com/views/Dashboard1_17231493955380/Dashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
